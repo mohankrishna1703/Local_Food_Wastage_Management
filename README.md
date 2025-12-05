@@ -16,25 +16,9 @@ This system supports:
 
 ✔ A beginner-friendly Streamlit dashboard
 
-🗂 Project Folder Structure
-
-food_waste_project/
-├─ data/
-│  ├─ providers_data.csv
-│  ├─ receivers_data.csv
-│  ├─ food_listings_data.csv
-│  └─ claims_data.csv
-├─ scripts/
-│  ├─ data_prep.py
-│  ├─ create_db.py
-│  └─ run_queries.py
-├─ app/
-│  └─ streamlit_app.py
-├─ food_waste.db
-
 🧑‍🍳 Datasets Used
 
-You will find 4 CSV files inside the /data folder:
+We will find 4 CSV files inside the /data folder:
 
 | Dataset File               | Description                 |
 | -------------------------- | --------------------------- |
@@ -59,7 +43,7 @@ Provider contact
 
 ✔ Filter Food Items
 
-You can filter by:
+We can filter by:
 
 City
 
